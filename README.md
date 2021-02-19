@@ -1,2 +1,2 @@
 # BTZ_Bi_Corr
-Evaluate and plot optimized correlation measures in BTZ spacetime
+Evaluate and plot bipartite optimized correlation measures in BTZ spacetime
